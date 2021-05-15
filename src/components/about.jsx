@@ -1,5 +1,4 @@
 import React from "react";
-//import myImage from "../img/myImage.png";
 
 class About extends React.Component {
   constructor() {
