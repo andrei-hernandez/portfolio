@@ -132,7 +132,7 @@ class Portfolio extends React.Component {
             </div>
             <div className="col-md-4">
               <div className="work-box">
-                <a href="https://academia-online-graphql-two.vercel.app">
+                <a href="https://api-flashcards.vercel.app/" target="_blank" rel="noreferrer">
                   <div className="work-img">
                     <img src={FCarsApi} alt="" className="img-fluid" />
                   </div>
