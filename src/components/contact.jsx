@@ -111,21 +111,27 @@ class Contact extends React.Component {
                           Simply fill the from and send me an email.
                         </p>
                         <ul class="list-ico">
-                          <li><span class="ion-ios-telephone"></span><a href="https://api.whatsapp.com/send?phone=+527225356533"> (+52) 722 535 6533</a></li>
-                          <li><span class="ion-email"></span><a href="mailto:andiuchihahaha@gmail.com">andiuchihahaha@gmail.com</a></li>
+                          <li>
+                            <span class="ion-ios-telephone"></span>
+                            <a href="https://api.whatsapp.com/send?phone=+527225356533" target="_blank" rel="noreferrer"> (+52) 722 535 6533</a>
+                          </li>
+                          <li>
+                            <span class="ion-email"></span>
+                            <a href="mailto:andiuchihahaha@gmail.com" target="_blank" rel="noreferrer">andiuchihahaha@gmail.com</a>
+                          </li>
                         </ul>
                       </div>
                       <div className="socials">
                         <ul>
                           <li>
-                            <a href="https://github.com/AndiUchiha1">
+                            <a href="https://github.com/AndiUchiha1" target="_blank" rel="noreferrer">
                               <span className="ico-circle">
                                 <i className="ion-social-github"></i>
                               </span>
                             </a>
                           </li>
                           <li>
-                            <a href="https://www.linkedin.com/in/andrei-eduardo-hernandez-acevedo-3744961b3/">
+                            <a href="https://www.linkedin.com/in/andrei-eduardo-hernandez-acevedo-3744961b3/" target="_blank" rel="noreferrer">
                               <span className="ico-circle">
                                 <i className="ion-social-linkedin"></i>
                               </span>
