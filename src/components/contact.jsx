@@ -117,7 +117,7 @@ class Contact extends React.Component {
                           </li>
                           <li>
                             <span class="ion-email"></span>
-                            <a href="mailto:andiuchihahaha@gmail.com" target="_blank" rel="noreferrer">andiuchihahaha@gmail.com</a>
+                            <a href="mailto:andrei@devany.mx" target="_blank" rel="noreferrer">andrei@devany.mx</a>
                           </li>
                         </ul>
                       </div>
