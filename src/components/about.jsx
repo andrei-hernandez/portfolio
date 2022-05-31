@@ -6,16 +6,10 @@ class About extends React.Component {
     this.state = {
       skills: [
         {
-          id: "HTML5_skill",
-          content: "HTML5",
-          porcentage: "80%",
-          value: "80"
-        },
-        {
-          id: "CSS3_skill",
-          content: "CSS3",
-          porcentage: "75%",
-          value: "75"
+          id: "ReactJS_skill",
+          content: "ReactJS",
+          porcentage: "95%",
+          value: "95"
         },
         {
           id: "JavaScript_skill",
@@ -24,35 +18,35 @@ class About extends React.Component {
           value: "90"
         },
         {
-          id: "GIT_skill",
-          content: "GIT",
-          porcentage: "70%",
-          value: "70"
+          id: "NextJS_skill",
+          content: "NextJS",
+          porcentage: "85%",
+          value: "85"
         },
         {
-          id: "ReactJS_skill",
-          content: "ReactJS",
-          porcentage: "75%",
-          value: "75"
+          id: "TypeScript_skill",
+          content: "TypeScript",
+          porcentage: "80%",
+          value: "80"
         },
+        {
+          id: "GraphQL_skill",
+          content: "GraphQL",
+          porcentage: "80%",
+          value: "80"
+        },
+        {
+          id: "CSS3_skill",
+          content: "CSS3",
+          porcentage: "80%",
+          value: "80"
+        },    
         {
           id: "Express_skill",
           content: "Express",
           porcentage: "60%",
           value: "60"
         },
-        {
-          id: "VanillaJS_skill",
-          content: "VanillaJS",
-          porcentage: "85%",
-          value: "85"
-        },
-        {
-          id: "GraphQL_skill",
-          content: "GraphQL",
-          porcentage: "55%",
-          value: "55"
-        }
       ],
       about_me: [
         {
