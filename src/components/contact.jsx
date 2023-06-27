@@ -117,14 +117,14 @@ class Contact extends React.Component {
                           </li>
                           <li>
                             <span class="ion-email"></span>
-                            <a href="mailto:andrei@jaxitank.com" target="_blank" rel="noreferrer">andrei@jaxitank.com</a>
+                            <a href="mailto:andrei.acevedo1@gmail.com" target="_blank" rel="noreferrer">andrei.acevedo1@gmail.com</a>
                           </li>
                         </ul>
                       </div>
                       <div className="socials">
                         <ul>
                           <li>
-                            <a href="https://github.com/AndiUchiha1" target="_blank" rel="noreferrer">
+                            <a href="https://github.com/andrei-hernandez" target="_blank" rel="noreferrer">
                               <span className="ico-circle">
                                 <i className="ion-social-github"></i>
                               </span>
